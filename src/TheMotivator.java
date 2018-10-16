@@ -12,7 +12,7 @@ public class TheMotivator {
 			System.out.println("Oops.");
 	}
 	public static void main(String[] args) {
-		TheMotivator tm = new TheMotivator();
-		tm.feedback(60);
+		TheMotivator motivator = new TheMotivator();
+		motivator.feedback(100);
 	}
 }
